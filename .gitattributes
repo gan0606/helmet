@@ -1,0 +1,5 @@
+*.pt filter=lfs
+*.onnx filter=lfs
+*.png filter=lfs
+*.jpg filter=lfs
+*.ipynb filter=lfs

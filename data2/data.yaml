@@ -1,0 +1,13 @@
+train: C:/Users/yuuki/Kaggle/object_detection_try/helmet/data2/train/images
+val: C:/Users/yuuki/Kaggle/object_detection_try/helmet/data2/valid/images
+test: C:/Users/yuuki/Kaggle/object_detection_try/helmet/data2/test/images
+
+nc: 3
+names: ['head', 'helmet', 'person']
+
+roboflow:
+  workspace: joseph-nelson
+  project: hard-hat-workers
+  version: 1
+  license: Public Domain
+  url: https://universe.roboflow.com/joseph-nelson/hard-hat-workers/dataset/1
