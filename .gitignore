@@ -1,5 +1,6 @@
 *.jpg
 *.txt
+*.mp4
 !labels_correlogram.jpg
 !labels.jpg
 !train_batch0.jpg
@@ -12,3 +13,9 @@
 !val_batch1_pred.jpg
 !val_batch2_labels.jpg
 !val_batch2_pred.jpg
+!01.jpg
+!02.jpg
+!03.jpg
+!04.jpg
+!05.jpg
+!06.jpg
